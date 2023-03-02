@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TDD, BDD, DDD**
 
-- 💬 Ask me about **C#, CICD Flow, Design patterns,Project Architecture**
+- 💬 Ask me about **C#, CICD Flow, Design patterns, Project Architecture**
 
 - 📫 How to reach me **hosseinrezaei167@gmail.com**
 
